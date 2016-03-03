@@ -312,8 +312,8 @@ li:hover {
 	background-image: url(../images/screen-mock.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
-	/*width: 500px;
-	height: 500px;*/
+	width: 700px;
+	height: 700px;
 	overflow: hidden;
 	margin: 0 auto;
 	text-align: center;
