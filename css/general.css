@@ -294,7 +294,8 @@ li:hover {
 }
 
 .menu {
-	float: right;
+	float: none;
+	margin: 0 auto;
 	width: 350px;
 }
 
@@ -451,6 +452,27 @@ footer h1 {
 
 
 
+li {
+	display: inline-block;
+	right: 10px;
+	padding: 2% 4%;
+	color: #fff;
+	font-size: 11pt;
+
+}
+li:hover {
+	cursor: pointer;
+	opacity: .5;
+}
+
+.menu {
+	float: right;
+	width: 350px;
+}
+
+
+
+
  }
 
 
@@ -518,6 +540,30 @@ footer h1 {
 	width: 50%;
 	margin: 0 auto;
 }
+
+
+
+
+
+li {
+	display: inline-block;
+	right: 10px;
+	padding: 2% 4%;
+	color: #fff;
+	font-size: 11pt;
+
+}
+li:hover {
+	cursor: pointer;
+	opacity: .5;
+}
+
+.menu {
+	float: right;
+	width: 350px;
+}
+
+
 
 
 }
