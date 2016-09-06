@@ -1,0 +1,35 @@
+#landing h2 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 24pt;
+	color: #fff;
+}
+
+
+h2{
+	font-family: 'Roboto Slab', serif;
+	font-size: 22pt;
+	color: #666;
+}
+
+#about p strong {
+	font-family: 'Roboto Slab', serif;
+	font-size: 16pt;
+	color: #666;	
+}
+
+p {
+	color: #666;
+	line-height: 1.4em;
+}
+
+#service h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 14pt;
+	color: #666;	
+}
+
+#team h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 14pt;
+	color: #666;	
+}
